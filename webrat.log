@@ -1,0 +1,21 @@
+# Logfile created on 2013-06-25 12:10:00 -0500 by logger.rb/25413
+REQUESTING PAGE: GET /doctors with {} and HTTP headers {}
+REQUESTING PAGE: GET /doctors with {} and HTTP headers {}
+REQUESTING PAGE: GET /doctors with {} and HTTP headers {}
+REQUESTING PAGE: GET /doctors with {} and HTTP headers {}
+REQUESTING PAGE: GET /doctors/new with {} and HTTP headers {"HTTP_REFERER"=>"/doctors"}
+REQUESTING PAGE: GET /doctors with {} and HTTP headers {}
+REQUESTING PAGE: GET /doctors/new with {} and HTTP headers {"HTTP_REFERER"=>"/doctors"}
+REQUESTING PAGE: GET /doctors with {} and HTTP headers {}
+REQUESTING PAGE: GET /doctors/new with {} and HTTP headers {"HTTP_REFERER"=>"/doctors"}
+REQUESTING PAGE: GET /doctors with {} and HTTP headers {}
+REQUESTING PAGE: GET /doctors/new with {} and HTTP headers {"HTTP_REFERER"=>"/doctors"}
+REQUESTING PAGE: POST /doctors with {"utf8"=>"\xE2\x9C\x93", "doctor"=>{"name"=>"Head Vet", "address"=>"PO Box 123", "city"=>"Austin", "state"=>"TX", "zip"=>"78736", "school"=>"TAMU", "years_in_practice"=>"20"}, "commit"=>"Create Doctor"} and HTTP headers {"HTTP_REFERER"=>"/doctors/new"}
+REQUESTING PAGE: GET /doctors with {} and HTTP headers {}
+REQUESTING PAGE: GET /doctors/new with {} and HTTP headers {"HTTP_REFERER"=>"/doctors"}
+REQUESTING PAGE: POST /doctors with {"utf8"=>"\xE2\x9C\x93", "doctor"=>{"name"=>"Head Vet", "address"=>"PO Box 123", "city"=>"Austin", "state"=>"TX", "zip"=>"78736", "school"=>"TAMU", "years_in_practice"=>"20"}, "commit"=>"Create Doctor"} and HTTP headers {"HTTP_REFERER"=>"/doctors/new"}
+REQUESTING PAGE: GET /doctors with {} and HTTP headers {"HTTP_REFERER"=>"/doctors"}
+REQUESTING PAGE: GET /doctors with {} and HTTP headers {}
+REQUESTING PAGE: GET /doctors/new with {} and HTTP headers {"HTTP_REFERER"=>"/doctors"}
+REQUESTING PAGE: POST /doctors with {"utf8"=>"\xE2\x9C\x93", "doctor"=>{"name"=>"Head Vet", "address"=>"PO Box 123", "city"=>"Austin", "state"=>"TX", "zip"=>"78736", "school"=>"TAMU", "years_in_practice"=>"20"}, "commit"=>"Create Doctor"} and HTTP headers {"HTTP_REFERER"=>"/doctors/new"}
+REQUESTING PAGE: GET /doctors with {} and HTTP headers {"HTTP_REFERER"=>"/doctors"}
